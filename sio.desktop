@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SiO
+Comment=Universal Folder and App Cleaner
+Exec=pkexec env DISPLAY=:0 XAUTHORITY=/run/user/1000/gdm/Xauthority python3 /usr/local/bin/sio.py
+Icon=system-file-manager
+Terminal=false
+Categories=System;Utility;
